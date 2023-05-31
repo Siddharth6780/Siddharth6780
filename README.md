@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Siddharth6780&show_icons=true&theme=radical"></p>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth6780&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth6780&layout=radial"></p>
 <!--
 **Siddharth6780/Siddharth6780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
